@@ -1,0 +1,375 @@
+ 
+     Lat       Lon        yyyy-mm-dd hh:mm:ss (UTC)     z(m)
+ 
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.5847  111.2911***** Site is out of model grid OR land *****
+    -1.9608  11     4.4331  110.5832     2020-10-13 03:00:00     0.078
+     4.4331  110.5832     2020-10-13 04:00:00    -0.043
+     4.4331  110.5832     2020-10-13 05:00:00    -0.197
+     4.4331  110.5832     2020-10-13 06:00:00    -0.371
+     4.4331  110.5832     2020-10-13 07:00:00    -0.541
+     4.4331  110.5832     2020-10-13 08:00:00    -0.676
+     4.4331  110.5832     2020-10-13 09:00:00    -0.751
+     4.4331  110.5832     2020-10-13 10:00:00    -0.745
+     4.4331  110.5832     2020-10-13 11:00:00    -0.653
+     4.4331  110.5832     2020-10-13 12:00:00    -0.483
+     4.4331  110.5832     2020-10-13 13:00:00    -0.258
+     4.4331  110.5832     2020-10-13 14:00:00    -0.013
+     4.4331  110.5832     2020-10-13 15:00:00     0.217
+     4.4331  110.5832     2020-10-13 16:00:00     0.398
+     4.4331  110.5832     2020-10-13 17:00:00     0.511
+     4.4331  110.5832     2020-10-13 18:00:00     0.548
+     4.4331  110.5832     2020-10-13 19:00:00     0.518
+     4.4331  110.5832     2020-10-13 20:00:00     0.444
+     4.4331  110.5832     2020-10-13 21:00:00     0.353
+     4.4331  110.5832     2020-10-13 22:00:00     0.271
+     4.4331  110.5832     2020-10-13 23:00:00     0.217
+     4.4331  110.5832     2020-10-14 00:00:00     0.196
+     4.4331  110.5832     2020-10-14 01:00:00     0.200
+     4.4331  110.5832     2020-10-14 02:00:00     0.210
+     4.4331  110.5832     2020-10-14 03:00:00     0.202
+     4.4331  110.5832     2020-10-14 04:00:00     0.154
+     4.4331  110.5832     2020-10-14 05:00:00     0.052
+     4.4331  110.5832     2020-10-14 06:00:00    -0.100
+     4.4331  110.5832     2020-10-14 07:00:00    -0.287
+     4.4331  110.5832     2020-10-14 08:00:00    -0.476
+     4.4331  110.5832     2020-10-14 09:00:00    -0.633
+     4.4331  110.5832     2020-10-14 10:00:00    -0.722
+     4.4331  110.5832     2020-10-14 11:00:00    -0.720
+     4.4331  110.5832     2020-10-14 12:00:00    -0.620
+     4.4331  110.5832     2020-10-14 13:00:00    -0.436
+     4.4331  110.5832     2020-10-14 14:00:00    -0.197
+     4.4331  110.5832     2020-10-14 15:00:00     0.055
+     4.4331  110.5832     2020-10-14 16:00:00     0.277
+     4.4331  110.5832     2020-10-14 17:00:00     0.433
+     4.4331  110.5832     2020-10-14 18:00:00     0.504
+     4.4331  110.5832     2020-10-14 19:00:00     0.487
+     4.4331  110.5832     2020-10-14 20:00:00     0.403
+     4.4331  110.5832     2020-10-14 21:00:00     0.283
+     4.4331  110.5832     2020-10-14 22:00:00     0.164
+     4.4331  110.5832     2020-10-14 23:00:00     0.079
+     4.4331  110.5832     2020-10-15 00:00:00     0.047
+     4.4331  110.5832     2020-10-15 01:00:00     0.072
+     4.4331  110.5832     2020-10-15 02:00:00     0.136
+     4.4331  110.5832     2020-10-15 03:00:00     0.209
+     4.4331  110.5832     2020-10-15 04:00:00     0.258
+     4.4331  110.5832     2020-10-15 05:00:00     0.252
+     4.4331  110.5832     2020-10-15 06:00:00     0.174
+     4.4331  110.5832     2020-10-15 07:00:00     0.026
+     4.4331  110.5832     2020-10-15 08:00:00    -0.168
+     4.4331  110.5832     2020-10-15 09:00:00    -0.371
+     4.4331  110.5832     2020-10-15 10:00:00    -0.541
+     4.4331  110.5832     2020-10-15 11:00:00    -0.637
+     4.4331  110.5832     2020-10-15 12:00:00    -0.633
+     4.4331  110.5832     2020-10-15 13:00:00    -0.527
+     4.4331  110.5832     2020-10-15 14:00:00    -0.336
+     4.4331  110.5832     2020-10-15 15:00:00    -0.098
+     4.4331  110.5832     2020-10-15 16:00:00     0.140
+     4.4331  110.5832     2020-10-15 17:00:00     0.329
+     4.4331  110.5832     2020-10-15 18:00:00     0.435
+     4.4331  110.5832     2020-10-15 19:00:00     0.442
+     4.4331  110.5832     2020-10-15 20:00:00     0.358
+     4.4331  110.5832     2020-10-15 21:00:00     0.213
+     4.4331  110.5832     2020-10-15 22:00:00     0.050
+     4.4331  110.5832     2020-10-15 23:00:00    -0.086
+ *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
+    -1.9608  111.2911***** Site is out of model grid OR land *****
